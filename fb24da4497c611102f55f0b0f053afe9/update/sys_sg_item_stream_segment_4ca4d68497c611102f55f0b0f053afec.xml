@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_item_stream_segment">
+    <sys_sg_item_stream_segment action="INSERT_OR_UPDATE">
+        <empty_state/>
+        <interleave_order_direction>asc</interleave_order_direction>
+        <max_offline_rows>1000</max_offline_rows>
+        <name>practo Item Stream Segment</name>
+        <order>0</order>
+        <screen display_value="practos">0ca4d68497c611102f55f0b0f053afea</screen>
+        <sys_class_name>sys_sg_item_stream_segment</sys_class_name>
+        <sys_created_by>joshuaprakash</sys_created_by>
+        <sys_created_on>2022-09-15 12:49:09</sys_created_on>
+        <sys_id>4ca4d68497c611102f55f0b0f053afec</sys_id>
+        <sys_name>practo Item Stream Segment</sys_name>
+        <sys_package display_value="Codesnippets" source="x_854283_codesnipp">fb24da4497c611102f55f0b0f053afe9</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Codesnippets">fb24da4497c611102f55f0b0f053afe9</sys_scope>
+        <sys_update_name>sys_sg_item_stream_segment_4ca4d68497c611102f55f0b0f053afec</sys_update_name>
+    </sys_sg_item_stream_segment>
+</record_update>

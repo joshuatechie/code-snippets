@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_button_instance">
+    <sys_sg_button_instance action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <button display_value="Delete Swipe (practo)">00a4d68497c611102f55f0b0f053aff1</button>
+        <color_theme/>
+        <description/>
+        <disable_offline>false</disable_offline>
+        <field_name/>
+        <icon/>
+        <label>Delete</label>
+        <location>leading_swipe</location>
+        <name>Delete (practo)</name>
+        <order/>
+        <parent>08a4d68497c611102f55f0b0f053afee</parent>
+        <parent_table>sys_sg_master_item</parent_table>
+        <sys_class_name>sys_sg_button_instance</sys_class_name>
+        <sys_created_by>joshuaprakash</sys_created_by>
+        <sys_created_on>2022-09-15 12:49:10</sys_created_on>
+        <sys_id>c0a4d68497c611102f55f0b0f053aff3</sys_id>
+        <sys_name>Delete (practo)</sys_name>
+        <sys_package display_value="Codesnippets" source="x_854283_codesnipp">fb24da4497c611102f55f0b0f053afe9</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Codesnippets">fb24da4497c611102f55f0b0f053afe9</sys_scope>
+        <sys_update_name>sys_sg_button_instance_c0a4d68497c611102f55f0b0f053aff3</sys_update_name>
+        <table/>
+    </sys_sg_button_instance>
+    <sys_translated_text action="delete_multiple" query="documentkey=c0a4d68497c611102f55f0b0f053aff3"/>
+</record_update>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_details_screen">
+    <sys_sg_details_screen action="INSERT_OR_UPDATE">
+        <available_offline>false</available_offline>
+        <description> practo</description>
+        <dynamic_prefetch_count/>
+        <empty_state/>
+        <fetch_type>not_required</fetch_type>
+        <filter/>
+        <hide_filters>false</hide_filters>
+        <hide_screen_name>false</hide_screen_name>
+        <icon display_value="icon-Address-Book">04a41ec097c611102f55f0b0f053af36</icon>
+        <name>Details</name>
+        <roles_override/>
+        <sys_class_name>sys_sg_details_screen</sys_class_name>
+        <sys_created_by>joshuaprakash</sys_created_by>
+        <sys_created_on>2022-09-15 12:49:09</sys_created_on>
+        <sys_id>84a4d68497c611102f55f0b0f053afec</sys_id>
+        <sys_name>Details</sys_name>
+        <sys_package display_value="Codesnippets" source="x_854283_codesnipp">fb24da4497c611102f55f0b0f053afe9</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Codesnippets">fb24da4497c611102f55f0b0f053afe9</sys_scope>
+        <sys_update_name>sys_sg_details_screen_84a4d68497c611102f55f0b0f053afec</sys_update_name>
+        <table>x_854283_codesnipp_practo</table>
+    </sys_sg_details_screen>
+    <sys_translated_text action="delete_multiple" query="documentkey=84a4d68497c611102f55f0b0f053afec"/>
+</record_update>
